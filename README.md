@@ -1,3 +1,3 @@
 # Acamica-Blog
 
-Simple web for Help. 
+Simple web for help a friend.
